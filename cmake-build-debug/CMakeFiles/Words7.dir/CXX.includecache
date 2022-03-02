@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Peyton/CLionProjects/Words7/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+bits/stdc++.h
+-
+
